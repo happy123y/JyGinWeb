@@ -10,7 +10,7 @@ database:
     port: 3306
     dbname: jy-admin-db
     username: root
-    password: mkxiaoer
+    password: JanLove
     config: charset=utf8&parseTime=True&loc=Local
 # nosql数据的配置
 nosql:
